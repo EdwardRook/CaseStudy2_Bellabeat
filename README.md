@@ -1,4 +1,4 @@
-# Case Study 2:How Can a Wellness Technology Company Play It Smart
+# Case Study 2: How Can a Wellness Technology Company Play It Smart
 ## A Google Data Analytics Professional Certificate Capstone Project
 
 The goal of this case study is to follow the steps of the data analysis process: Ask, Prepare, Process, Analyse, Share and Act. 
